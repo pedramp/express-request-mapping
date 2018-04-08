@@ -1,0 +1,32 @@
+{
+  "name": "express-request-mapping",
+  "description": "A Node.js module for express.js that handle routing parameters by comments inside of controllers.",
+  "version": "0.0.3",
+  "contributors": [
+    "Pedram Pourhossein <pedramp@gmail.com> (http://pedram.tel)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "express",
+    "routing",
+    "middleware"
+  ],
+  "repository": {
+      "type": "git",
+      "url" : "https://github.com/pedramp/express-request-mapping"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "express": "^4.16.0",
+    "basic-auth": "^1.0.3"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
